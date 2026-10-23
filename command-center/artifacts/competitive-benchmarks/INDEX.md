@@ -10,4 +10,4 @@ Freshness: benchmarks older than 60 days should be re-verified at the next refre
 
 ---
 
-_(no benchmarks authored yet)_
+- [`agentic-outbound-pancake.md`](agentic-outbound-pancake.md) — Pancake: agentic outbound over MCP (2026-10-23, secondhand evidence)
